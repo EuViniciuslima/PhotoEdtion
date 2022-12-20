@@ -1,0 +1,12 @@
+.logo {
+    display: flex;
+    font-size: 30px;
+    background-color: white;
+    justify-content: space-between;
+    margin-right: 800px;
+    
+}
+
+.logo-img {
+    margin-right: 12px;
+}
